@@ -1,0 +1,12 @@
+body
+{
+background-color:blue
+}
+{
+font-family:"Georgia";
+font-size:30px;
+}
+p.one {
+    border-style: solid;
+    border-color: black;
+}
